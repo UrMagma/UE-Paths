@@ -1,30 +1,41 @@
 # Paths
 **YOU MUST HAVE ACCESS TO UNREAL ENGINE SOURCE CODE**
 
-``Many people are unaware of where to find things like UObjects, TArrary, and so on. Therefore, this provides a simple but not comprehensive solution.
-
-You will find the sections for the items listed below relatively close to where the website opens.``
+Many people are unaware of where to find things like UObjects, TArrary, and so on. Therefore, this provides a simple but not comprehensive solution.
+You will find the sections for the items listed below relatively close to where the website opens.
 
 **TArrary**
 
-``/Engine/Source/Runtime/Core/Public/Containers/Array.h#L305``
+
+```/Engine/Source/Runtime/Core/Public/Containers/Array.h#L305```
+
 
 **UObject**
 
-``/Engine/Source/Runtime/CoreUObject/Public/UObject/UObjectBase.h#L20``
+
+```/Engine/Source/Runtime/CoreUObject/Public/UObject/UObjectBase.h#L20```
+
 
 **FString**
 
-``/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h#L59``
+
+```/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h#L59```
+
 
 **FName**
 
-``/Engine/Source/Runtime/Core/Public/UObject/NameTypes.h#L403``
+
+```/Engine/Source/Runtime/Core/Public/UObject/NameTypes.h#L403```
+
 
 **Replication/NetDriver**
 
-``/Engine/Source/Runtime/Engine/Private/NetDriver.cpp#L4828``
+
+```/Engine/Source/Runtime/Engine/Private/NetDriver.cpp#L4828```
+
 
 **UNetConnection**
 
-``/Engine/Source/Runtime/Engine/Classes/Engine/NetConnection.h#L39``
+
+```/Engine/Source/Runtime/Engine/Classes/Engine/NetConnection.h#L39```
+
