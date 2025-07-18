@@ -20,3 +20,11 @@ You will find the sections for the items listed below relatively close to where 
 **FName**
 
 ``/Engine/Source/Runtime/Core/Public/UObject/NameTypes.h#L403``
+
+**Replication/NetDriver**
+
+``/Engine/Source/Runtime/Engine/Private/NetDriver.cpp#L4828``
+
+**UNetConnection**
+
+``/Engine/Source/Runtime/Engine/Classes/Engine/NetConnection.h#L39``
